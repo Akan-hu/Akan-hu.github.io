@@ -660,4 +660,12 @@ section {
         justify-content: left;
         font-size: 2.6rem;
     }
+    .leftSection h1 {
+        font-size: 4rem;
+        font-weight: 500;
+        line-height: 1.3
+    }
+    #element {
+        font-size: 2rem;
+    }
 }
