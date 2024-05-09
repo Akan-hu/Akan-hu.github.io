@@ -638,6 +638,7 @@ section {
         display: block;
         position: absolute;
         right: 8rem;
+        margin-right: 6rem;
     }
     .footer-icons {
         margin: 10rem 0;
