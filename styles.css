@@ -601,13 +601,13 @@ section {
     }
     .rightSection img {
         width: 40vw;
-        margin-top: 6rem;
+        margin-top: 8rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
-        right: 8rem;
-        margin-right: 5rem;
+        right: 4rem;
+        margin-right: 3rem;
     }
     .footer-icons {
         margin: 10rem 0 ;
@@ -631,14 +631,14 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        top: 5rem;
-        right: 2rem;
+        top: 8rem;
+        right: 4rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
-        right: 10rem;
-        margin-right: 5rem;
+        right: 7rem;
+        margin-right: 3rem;
     }
     .footer-icons {
         margin: 10rem 0;
