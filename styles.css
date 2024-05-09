@@ -636,7 +636,7 @@ section {
     #menu-icon {
         display: block;
         position: absolute;
-        margin-right: 3rem;
+        right: 5rem;
     }
     .footer-icons {
         margin: 10rem 0;
