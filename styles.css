@@ -600,8 +600,11 @@ section {
         display: flex;
     }
     .rightSection img {
-        width: 40vw;
-        margin-top: 8rem;
+        width: 60vw;
+        margin-top: 6rem;
+        position: absolute;
+        /* top: 8rem; */
+        right: 5rem;
     }
     #menu-icon {
         display: block;
@@ -631,7 +634,7 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        top: 8rem;
+        /* top: 8rem; */
         right: 5rem;
     }
     #menu-icon {
