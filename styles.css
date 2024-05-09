@@ -603,13 +603,12 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        /* top: 8rem; */
-        right: 5rem;
+        right: 6rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
-        right: 8rem;
+        right: 7rem;
         
     }
     .footer-icons {
@@ -634,14 +633,13 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        /* top: 8rem; */
-        right: 5rem;
+        right: 7rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
-        right: 8rem;
-        margin-right: 4rem;
+        right: 6rem;
+        margin-right: 3rem;
     }
     .footer-icons {
         margin: 10rem 0;
