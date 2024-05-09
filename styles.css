@@ -621,7 +621,7 @@ section {
 
 @media (max-width:450px) {
     html {
-        font-size: 50%;
+        font-size: 40%;
     }
     
     .copy-text {
@@ -631,14 +631,14 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        top: 6rem;
+        top: 8rem;
         right: 5rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
         right: 8rem;
-        margin-right: 6rem;
+        margin-right: 4rem;
     }
     .footer-icons {
         margin: 10rem 0;
