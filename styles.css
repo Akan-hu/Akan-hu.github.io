@@ -606,7 +606,8 @@ section {
     #menu-icon {
         display: block;
         position: absolute;
-        right: 3rem;
+        right: 8rem;
+        
     }
     .footer-icons {
         margin: 10rem 0 ;
@@ -630,13 +631,13 @@ section {
         width: 60vw;
         margin-top: 6rem;
         position: absolute;
-        top: 8rem;
-        right: 4rem;
+        top: 6rem;
+        right: 5rem;
     }
     #menu-icon {
         display: block;
         position: absolute;
-        right: 5rem;
+        right: 8rem;
     }
     .footer-icons {
         margin: 10rem 0;
