@@ -508,6 +508,7 @@ section {
 
     .firstSection {
         flex-direction: column;
+        margin-right: 2rem;
     }
 
     .leftSection h3 {
@@ -520,6 +521,7 @@ section {
 
     .leftSection {
         order: 2;
+        margin-right: 2rem;
     }
 
     .rightSection img {
@@ -569,6 +571,7 @@ section {
 
     .navbar.active {
         display: block;
+        padding: 0;
         background-color: var(--snd-bf-color);
     }
 
@@ -623,7 +626,7 @@ section {
 
 @media (max-width:450px) {
     html {
-        font-size: 45%;
+        font-size: 55%;
     }
     
     .copy-text {
