@@ -628,7 +628,7 @@ section {
         margin-left: 1rem;
     }
     #element {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
     .leftSection h1 {
         font-size: 4rem;
@@ -674,6 +674,6 @@ section {
         line-height: 1.3
     }
     #element {
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 }
