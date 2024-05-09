@@ -475,6 +475,7 @@ section {
 @media (max-width:991px) {
     .header {
         padding: 2rem 3%;
+        position: fixed;
     }
 
     section {
@@ -502,8 +503,7 @@ section {
     #menu-icon {
         display: block;
         position: absolute;
-        right: 5rem;
-        margin-right: 5rem;
+        right: 3rem;
     }
 
     .firstSection {
@@ -606,8 +606,7 @@ section {
     #menu-icon {
         display: block;
         position: absolute;
-        right: 4rem;
-        margin-right: 3rem;
+        right: 3rem;
     }
     .footer-icons {
         margin: 10rem 0 ;
@@ -637,7 +636,6 @@ section {
     #menu-icon {
         display: block;
         position: absolute;
-        right: 7rem;
         margin-right: 3rem;
     }
     .footer-icons {
