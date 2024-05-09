@@ -593,6 +593,7 @@ section {
 
     .copy-text {
         display: flex;
+        text-align: center;
     }
 }
 
@@ -602,6 +603,7 @@ section {
     }
     .copy-text {
         display: flex;
+        text-align: center;
     }
     .rightSection img {
         width: 60vw;
@@ -644,6 +646,7 @@ section {
     
     .copy-text {
         display: flex;
+        text-align: center;
     }
     .rightSection img {
         width: 60vw;
