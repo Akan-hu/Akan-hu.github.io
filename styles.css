@@ -77,9 +77,10 @@ section {
 }
 
 .rightSection img {
-    width: 35vw;
+    width: 30vw;
     animation: floatImage;
     margin: 0 0 80px 0;
+    border-radius: 2rem;
 }
 
 .leftSection {
@@ -270,9 +271,10 @@ section {
 
 .portfolio-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3,1fr);
     align-items: center;
-    grid-gap: 10rem;
+    grid-gap: 3rem;
+  
 }
 
 .portfolio-container .portfolio-box {
@@ -281,7 +283,7 @@ section {
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
-
+   
 }
 
 .portfolio-box h4 {
@@ -290,7 +292,6 @@ section {
 
 .portfolio-box img {
     width: 50%;
-
     transition: .5s;
     opacity: 0.7;
 }
